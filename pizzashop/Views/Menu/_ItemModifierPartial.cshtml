@@ -1,0 +1,40 @@
+@model pizzashop_repository.ViewModels.ItemModifierGroupViewModel
+
+<div class="modifier-group" data-group-id="@Model.Id">
+    <div class="d-flex justify-content-between align-items-center">
+        <h6>@Model.Name</h6>
+        <button type="button" class="btn btn-sm remove-group">
+            <img src="~/images/icons/trash.svg">
+        </button>
+    </div>
+
+    <div class="d-flex">
+        <select class="form-control qty-selector me-2 minQuantity">
+            <option value="0" selected="@(Model.MinQuantity == 0 ? "selected" : null)">0</option>
+            <option value="1" selected="@(Model.MinQuantity == 1 ? "selected" : null)">1</option>
+            <option value="2" selected="@(Model.MinQuantity == 2 ? "selected" : null)">2</option>
+            <option value="3" selected="@(Model.MinQuantity == 3 ? "selected" : null)">3</option>
+        </select>
+
+        <select class="form-control qty-selector maxQuantity">
+            <option value="0" selected="@(Model.MaxQuantity == 0 ? "selected" : null)">0</option>
+            <option value="1" selected="@(Model.MaxQuantity == 1 ? "selected" : null)">1</option>
+            <option value="2" selected="@(Model.MaxQuantity == 2 ? "selected" : null)">2</option>
+            <option value="3" selected="@(Model.MaxQuantity == 3 ? "selected" : null)">3</option>
+        </select>
+    </div>
+
+
+
+    <ul class="mt-2">
+        @foreach (var modifier in Model.AvailableModifiersForItem)
+        {
+            <li>
+                <div class="d-flex justify-content-between">
+                    <div>@modifier.Name</div>
+                    <div>@modifier.Price</div>
+                </div>
+            </li>
+        }
+    </ul>
+</div>

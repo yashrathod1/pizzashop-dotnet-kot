@@ -1,0 +1,11 @@
+@using pizzashop_repository.ViewModels
+@model List<KOTOrderCardViewModel>
+
+<div class="w-100 overflow-hidden">
+    <div class="d-flex gap-2 sliderContainer mt-3" style="transition: transform 0.5s ease-in-out;">
+        @foreach (var item in Model)
+        {
+            <partial name="_OrderCardPartial" model="item" />
+        }
+    </div>
+</div>

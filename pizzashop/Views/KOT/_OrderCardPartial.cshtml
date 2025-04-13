@@ -1,0 +1,70 @@
+@model pizzashop_repository.ViewModels.KOTOrderCardViewModel
+
+@{
+    var sectionName = Model.SectionTable.FirstOrDefault()?.SectionName ?? "N/A";
+    var tableNames = string.Join(", ", Model.SectionTable.Select(t => t.TableName));
+    var timeSinceOrder = DateTime.Now - Model.CreatedAt;
+    var placedTimeAgo = timeSinceOrder.TotalDays >= 1 
+        ? $"{(int)timeSinceOrder.TotalDays} days ago"
+        : timeSinceOrder.TotalHours >= 1 
+            ? $"{(int)timeSinceOrder.TotalHours} hours ago"
+            : timeSinceOrder.TotalMinutes >= 1 
+                ? $"{(int)timeSinceOrder.TotalMinutes} min ago"
+                : "Just now";
+
+    var timeRemainingFormatted = $"{(int)timeSinceOrder.TotalDays} days {(int)timeSinceOrder.Hours} hours {(int)timeSinceOrder.Minutes} min {(int)timeSinceOrder.Seconds} sec";
+}
+
+<div class="card d-flex flex-column order-card" data-order-id="@Model.OrderId" style="cursor: pointer;">
+    <div class="card-header">
+        <div class="d-flex justify-content-between align-items-center">
+            <div class="blue-color h5"><strong>#@Model.OrderId</strong></div>
+            <div>
+                <i class="fa-regular fa-clock me-1 p-1 text-muted"></i>
+                <span class="text-muted">@timeRemainingFormatted</span>
+            </div>
+        </div>
+        <div class="d-flex">
+            <div>@sectionName • </div>
+            <div>@tableNames</div>
+        </div>
+    </div>
+
+    <div class="card-body overflow-auto p-2">
+        @foreach (var item in Model.Items)
+        {
+            <div class="d-flex justify-content-between mt-2">
+                <p class="text-secondary p-0 m-0 fw-medium">@item.ItemName</p>
+                <p class="text-secondary p-0 m-0 fw-medium">@item.Quantity</p>
+            </div>
+
+            @if (item.Modifiers != null && item.Modifiers.Any())
+            {
+                <ul class="list-unstyled ms-2 mb-1">
+                    @foreach (var mod in item.Modifiers)
+                    {
+                        <li class="text-secondary small">• @mod</li>
+                    }
+                </ul>
+            }
+
+            @if (!string.IsNullOrEmpty(Model.ItemInstruction))
+            {
+                <div class="ms-2 mb-2">
+                    <span class="text-info">Instruction:</span>
+                    <span class="text-secondary small">@Model.ItemInstruction</span>
+                </div>
+            }
+        }     
+    </div>
+
+    <div class="card-footer text-body-secondary" style="height: 70px;">
+        @if (!string.IsNullOrEmpty(Model.OrderInstruction))
+        {
+            <div>
+                <span class="text-info">Order Instruction:</span>
+                <span class="text-secondary">@Model.OrderInstruction</span>
+            </div>
+        }
+    </div>
+</div>

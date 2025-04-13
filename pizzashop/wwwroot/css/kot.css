@@ -1,0 +1,108 @@
+.nav-tabs {
+    border-bottom: none;
+}
+
+.nav-tabs .nav-link {
+    border: none;
+    color: #555;
+    font-weight: 500;
+    padding: 8px 16px;
+    text-align: left;
+}
+
+.nav-tabs .nav-link.active {
+    color: #0066a7;
+    background: none;
+}
+
+@media (min-width: 576px) {
+    .nav-tabs .nav-link.active {
+        border-bottom: 3px solid #0066a7;
+
+    }
+}
+
+@media (max-width: 575.98px) {
+    .nav-tabs .nav-link.active {
+        border-left: 3px solid #0066a7;
+    }
+}
+
+.shadow-box {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+}
+
+.status-btn {
+    border: 1px solid #0066a7;
+    color: #0066a7;
+    background-color: transparent;
+    transition: 0.3s;
+}
+
+.status-btn:hover,
+.status-btn:focus {
+    background-color: #0066a7;
+    color: #fff;
+}
+
+.status-btn.active {
+    background-color: #0066a7;
+    color: #fff;
+}
+
+.app-default-btn {
+    background-color: #0066a7;
+    color: #fff;
+}
+
+.app-cancel-btn {
+    border: 1px solid #0066a7;
+    color: #0066a7;
+    background-color: transparent;
+}
+
+.quantity-box {
+    border: 1px solid #0066a7;
+    border-radius: 2px;
+    width: 120px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.quantity-btn {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.order-card {
+    min-width: 400px;
+    height: 350px;
+    border: rgb(194, 194, 194) 2px dashed;
+    cursor: pointer;
+}
+
+.order-card:hover {
+    background-color: #f0f0f0;
+}
+
+.nextBtn .prevBtn{
+    border: 1px solid #0066a7;
+    color: #0066a7;
+    background-color: transparent;
+    transition: 0.3s;
+}
+
+.nextBtn .prevBtn:hover,
+.nextBtn .prevBtn:focus {
+    background-color: #0066a7;
+    color: #fff;
+}
+
+.nextBtn .prevBtn.active {
+    background-color: #0066a7;
+    color: #fff;
+}

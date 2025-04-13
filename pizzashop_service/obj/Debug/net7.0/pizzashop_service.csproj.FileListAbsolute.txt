@@ -1,0 +1,168 @@
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+Y:\MainPizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+Y:\MainPizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+Y:\MainPizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+Y:\MainPizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+Y:\MainPizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+Y:\MainPizzashop\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+Y:\savviourpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+Y:\savviourpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+Y:\savviourpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+Y:\savviourpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+Y:\savviourpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+Y:\savviourpizzashop\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+D:\3tierpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+D:\3tierpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+D:\3tierpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+D:\3tierpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+D:\3tierpizzashop\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+D:\3tierpizzashop\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+D:\savviourpizzashop-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+D:\savviourpizzashop-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+D:\savviourpizzashop-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+D:\savviourpizzashop-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+D:\savviourpizzashop-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+D:\savviourpizzashop-main\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+C:\Users\pci100\Downloads\pizzashop-dotnet-main-main\pizzashop-dotnet-main-main\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (3)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (5)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+c:\Users\rathod yash\Downloads\pizzashop-dotnet-main (1)\pizzashop-dotnet-main\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\bin\Debug\net7.0\Select.Html.dep
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\bin\Debug\net7.0\pizzashop_service.deps.json
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\bin\Debug\net7.0\pizzashop_service.dll
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\bin\Debug\net7.0\pizzashop_service.pdb
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.dll
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\bin\Debug\net7.0\pizzashop_repository.pdb
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.AssemblyReference.cache
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfoInputs.cache
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.AssemblyInfo.cs
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CoreCompileInputs.cache
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.csproj.CopyComplete
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.dll
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\refint\pizzashop_service.dll
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\pizzashop_service.pdb
+C:\Users\pci100\Desktop\3tiertryerror\pizzashop_service\obj\Debug\net7.0\ref\pizzashop_service.dll
+D:\PizzaShop-dotnet\pizzashoptry\pizzashop_service\bin\Debug\net7.0\Select.Html.dep
+C:\Users\rathod yash\Downloads\pizzashop-dotnet-main (2)\pizzashop-dotnet-main\pizzashop_service\bin\Debug\net7.0\Select.Html.dep
